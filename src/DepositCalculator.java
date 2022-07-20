@@ -17,7 +17,6 @@ public class DepositCalculator {
     }
 
     void calculate() {
-
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Введите сумму вклада в рублях:");
